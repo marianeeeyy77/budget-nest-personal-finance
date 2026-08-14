@@ -3,7 +3,7 @@
 
 Team Members & Roles
 Team Member	Roles
-- Kimberly Diaz (@Diazkimberly921)	Budget Management & Financial Calculations
+- Kimberly Diaz (@diazkimberly921)	Budget Management & Financial Calculations
 - Marian Rose Caballero (@marianeeeyy77) UI/UX Design, Dashboard & Navigation
 - John Hector Evangelista (@johnEvangelista) Income & Expense Tracking, Transaction Management
 - Daevon Fernandez (@Daevon36)	Data Storage, Reports, Charts & Financial Insights
