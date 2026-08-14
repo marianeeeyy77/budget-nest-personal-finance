@@ -8,10 +8,6 @@ Team Member	Role
 - John Hector Evangelista (johnEvangelista) Income & Expense Tracking, Transaction Management
 - Daevon Fernandez (Daevon36)	Data Storage, Reports, Charts & Financial Insights
 
-About 
-BudgetNest is a personal finance management application focused on providing users with a simple and organized way to monitor their financial activities.
-The system brings essential financial tools together, allowing users to track transactions, manage budgets, monitor savings, and gain meaningful insights into their financial progress.
-
  Key Features
 - Financial Dashboard
 - Budget Management
