@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center">BudgetNest</h1> <h3 align="center">Personal Finance Management System</h3> </p> <p align="center"> <strong>Smart. Simple. Secure.</strong> </p> <p align="center"> A modern web application designed to help users efficiently manage their <strong>budgets, income, expenses, savings, and financial goals</strong> in one convenient platform. </p>
+<p align="center"> <h1 align="center">BudgetNest</h1> <h3 align="center">Personal Finance Management System</h3> </p> <p align="center"> <strong>Manage Money. Manage Life.</strong> </p> <p align="center"> A simple personal finance dashboard that helps you track your spending, manage your budget, and reach your financial goals. </p>
 
 
 Team Members & Roles
